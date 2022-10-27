@@ -101,6 +101,10 @@ body{
     }
     100%{
         border-radius: 0%;
+        /*заливка картинкой*/
+        background: url(https://i.imgur.com/2IWeUJE.jpg);
+        background-size: 30px 30px;
     }
 
 }
+/*заливка картинкой*/
